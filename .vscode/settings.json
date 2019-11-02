@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "user.h": "c",
+        "limits.h": "c"
+    }
+}
